@@ -13,4 +13,4 @@ Step 2: look in your mysql database in YOURDB > Currencies > Bitcoin and find th
 
 Step 3: edit the script with your database information
 
-Step 4: Step chron job to run the script every two minutes using curl
+Step 4: Set up chron job to run the script every two minutes using curl
